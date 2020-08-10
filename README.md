@@ -1,2 +1,2 @@
-# TextSummarization-on-Clustered-documents
-Using TextRank algorithm for summarizing clustered documents/text 
+# InformationExtraction-from-Clustered-documents
+Extracting useful and relevant information from large amount of text
